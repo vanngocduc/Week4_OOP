@@ -4,16 +4,7 @@ using namespace std;
 #include "Nhanviensx.h"
 #include "Nhanvienvp.h"
 int main() {
-    // while (1) {
-    //     cout<< "1. Nhập danh sách nhân viên "<<endl;
-    //     cout<< "2. Tính lương cho từng nhân viên" <<endl;
-    //     cout<< "3. Xuất thông tin các nhân viên"<<endl;
-    //     cout<< "4. Tính tổng lương mà công ty phải trả cho các nhân viên"<<endl;
-    //     cout<< "5. Tìm nhân viên có lương cao nhất"<<endl;
-    //     cout<< "6.Tìm nhân viên có lương thấp nhất" <<endl;
-    //     cout<< "7. Sắp xếp và xuất ra danh sách nhân viên theo lương giảm dần."<<endl;
-    //     cout<< "0. Exit "<<endl;
-    // }
+
     int sx,vp;
     cout<<"So nhan vien san xuat:"<<endl;
     cin>>sx;
